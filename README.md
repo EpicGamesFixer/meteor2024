@@ -1,12 +1,12 @@
-<tr>
+<br>
 <p align='left'  style='background:black;' >
   <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
-</tr><tr>
+</br><br>
 <p align='right'  style='background:black;' >
   <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
-</tr>
+</br>
 - 👋 Here you will find everything you need for computer clubs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
