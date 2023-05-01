@@ -1,9 +1,9 @@
 <br>
 <p align='left'  style='background:black;' >
-  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 60%" >
+  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
 <p align='right'  style='background:black;' >
-  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 60%" >
+  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
 </br>
 - 👋 Here you will find everything you need for computer clubs
