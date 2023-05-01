@@ -1,11 +1,8 @@
 <br>
 <p align='center'  style='background:black;' >
-  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
+  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 40%" >
 </p>
 </br><br>
-<p align='center'  style='background:black;' >
-  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
-</p>
 </br>
 <h3 style="color:#ff0000">Danger</h3>
 - 👋 Here you will find everything you need for computer clubs
