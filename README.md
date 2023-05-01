@@ -1,9 +1,9 @@
 <br>
-<p align='left'  style='background:black;' >
+<p align='center'  style='background:black;' >
   <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
 </br><br>
-<p align='right'  style='background:black;' >
+<p align='center'  style='background:black;' >
   <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
 </br>
