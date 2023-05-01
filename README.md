@@ -4,7 +4,7 @@
 </p>
 </br><br>
 </br>
-<h3 style="color:#ff0000">Danger</h3>
+<h3 style="color:#ff0000">Game Clubs</h3>
 
 <p>
 - 👋 Here you will find everything you need for computer clubs
