@@ -1,4 +1,4 @@
-<p align='center' style='background:black;' >
+<p style='background:black;' >
   <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
 
