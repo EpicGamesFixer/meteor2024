@@ -1,6 +1,6 @@
 <br>
 <p align='center'  style='background:black;' >
-  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 40%" >
+  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 80%" >
 </p>
 </br><br>
 </br>
