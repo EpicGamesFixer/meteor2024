@@ -1,4 +1,4 @@
-<p align='center'>
+<p align='center' background="https://i.pinimg.com/originals/14/47/6f/14476fb71c1f27195a8c9317cab6a76b.jpg">
   <a href="https://discord.gg/kaneki">Discord</a> |
   <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g" >YouTube</a> |
   <a href="https://github.com/KanekiWeb">Github</a><br><br>
