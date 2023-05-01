@@ -1,5 +1,5 @@
-<p style='background:black;' >
-  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
+<p align='center'  style='background:black;' >
+  <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 60%" >
 </p>
 
 - 👋 Here you will find everything you need for computer clubs
