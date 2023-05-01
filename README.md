@@ -2,7 +2,7 @@
   <a href="https://discord.gg/kaneki">Discord</a> |
   <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g" >YouTube</a> |
   <a href="https://github.com/KanekiWeb">Github</a><br><br>
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 80%" alt="404 image"/>
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 30%" >
 </p>
 - 👋 Here you will find everything you need for computer clubs
 - 👀 I’m interested in ...
