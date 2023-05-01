@@ -1,8 +1,7 @@
-<div style="color: red; font-size: 48; font-family: 'Verdana'; float: right; border: 1px dotted green">
-<p align='center' style="background:black;" >
+<p align='center' style='background:black;' >
   <img src="https://thumbs.gfycat.com/ActiveGloomyGuernseycow-size_restricted.gif" style="width: 30%" >
 </p>
-</div>
+
 - 👋 Here you will find everything you need for computer clubs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
